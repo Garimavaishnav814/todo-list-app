@@ -1,0 +1,16 @@
+.jumbotron{
+    padding: 40px;
+}
+button{
+    background-color: rgb(100, 100, 214);
+    color: white;
+}
+.updateButton{
+    background-color: rgb(51, 133, 51);
+}
+.deleteButton{
+    background-color: rgb(206, 78, 78);
+}
+.addTask{
+    color: rgb(187, 27, 126);
+}
